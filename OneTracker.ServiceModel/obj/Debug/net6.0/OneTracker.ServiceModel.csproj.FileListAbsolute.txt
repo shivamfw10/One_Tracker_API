@@ -1,0 +1,12 @@
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\bin\Debug\net6.0\OneTracker.ServiceModel.deps.json
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\bin\Debug\net6.0\OneTracker.ServiceModel.dll
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\bin\Debug\net6.0\OneTracker.ServiceModel.pdb
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.AssemblyInfo.cs
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.dll
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\refint\OneTracker.ServiceModel.dll
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\OneTracker.ServiceModel.pdb
+C:\Users\shivam.vishvakarma\source\repos\OneTracker.API\OneTracker.ServiceModel\obj\Debug\net6.0\ref\OneTracker.ServiceModel.dll
